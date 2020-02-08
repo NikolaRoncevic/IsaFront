@@ -1,0 +1,53 @@
+.datum {
+    display: flex;
+    flex-direction: row;
+}
+
+.input-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn {
+    margin-top: 1px;
+}
+
+form {
+    margin-left: 40%;
+    margin-top: 50px;
+}
+
+.nazivsale {
+    font-size: large;
+}
+
+.sobe {
+    display: flex;
+    flex-direction: row;
+}
+
+.naziv {
+    width: 200px;
+}
+
+.datumi {
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin-left: 5px;
+}
+
+.spanic {
+    padding: 5px;
+}
+
+.detalji {
+    margin: 0px auto;
+    text-align: center;
+    font-size: large;
+    font-weight: 600;
+    border: 1px solid #333333;
+}
